@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RegistrationForm</string>
+    <string name="gender">Gender</string>
+    <string name="welcome">Welcome</string>
+    <string name="hint_fName">First Name</string>
+    <string name="hint_lName">Last Name</string>
+    <string name="hint_age">Age</string>
+    <string name="btn_regisiter">Regisiter</string>
+    <string name="err_msg_fName">Enter First Name</string>
+    <string name="err_msg_lName">Enter Last Name</string>
+    <string name="err_msg_Age">Enter Age</string>
+    <string name="activity">Activity</string>
+    <string name="situation">Situation Of Child</string>
+
+</resources>
