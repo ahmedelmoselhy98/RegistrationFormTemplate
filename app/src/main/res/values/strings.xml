@@ -11,5 +11,6 @@
     <string name="err_msg_Age">Enter Age</string>
     <string name="activity">Activity</string>
     <string name="situation">Situation Of Child</string>
+    <string name="child_info">Child Information</string>
 
 </resources>

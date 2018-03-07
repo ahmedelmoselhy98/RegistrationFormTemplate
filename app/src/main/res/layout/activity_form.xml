@@ -20,8 +20,20 @@
         android:layout_gravity="center"
         android:textColor="@android:color/black"
         />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/child_info"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="40dp"
+        />
     <LinearLayout
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:paddingLeft="20dp"
@@ -167,7 +179,7 @@
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Aution"
+            android:text="Autism"
             android:textSize="12sp"
             android:layout_weight="1"
             />
